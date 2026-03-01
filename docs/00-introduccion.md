@@ -77,3 +77,15 @@ Capaz de diseñar y defender arquitectura ante auditorías internas y externas.
 Diseñar el modelo de privilegios por niveles:
 
 01 - Modelo Tier 0 / Tier 1 / Tier 2
+
+---
+
+## 🌍 English Summary
+
+This project represents the transition from foundational Active Directory administration to enterprise-level infrastructure design.
+
+The focus shifts from basic configuration tasks to privilege governance, secure administration, hardening, auditing and identity protection.
+
+It simulates a medium-to-large organization environment and emphasizes scalability, separation of duties and risk reduction.
+
+The objective is to build an infrastructure-oriented mindset aligned with enterprise security best practices.
