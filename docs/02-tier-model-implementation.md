@@ -42,7 +42,7 @@ Each tier represents a security boundary.
 
 The following OU structure was created:
 
----text
+```text
 darkzone.cl
 └── Darkzone
 ├── Equipos
@@ -53,6 +53,8 @@ darkzone.cl
 ├── Grupos
 └── Admin
 └── TIER0
+```
+
 ---
 
 📸 **Capture 1 – OU Structure**
